@@ -2,5 +2,5 @@
 
 * Commit
 * Versionamento:
-    * Versionamento Semântico
-    * GitFlow
+	* Versionamento Semântico
+	* GitFlow
